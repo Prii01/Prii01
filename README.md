@@ -13,11 +13,9 @@ Welcome to my GitHub profile!. I'm a passionate software developer with a keen i
 
 **Editors & IDE's:** `VS Code` `IntelliJ IDEA` `Codeblocks` `PyCharm` `Eclipse`
 
-## 📬 Contact
+## 📬 How to reach me
 
 [LinkedIn](https://www.linkedin.com/in/priyanka-pujar-711534222). 
-
-[Instagram](https://www.instagram.com/pri_p_09?utm_source=qr&igsh=MWgwbzg3Ym1tOTlrYw==).
 
 <!--
 **Prii01/Prii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
