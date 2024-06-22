@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, I'm Priyanka 👋
+Welcome to my GitHub profile!. I'm a passionate software developer with a keen interest in building innovative solutions and exploring cutting-edge technologies.
+<h2>💻 Tech Stack </h2>
+<li>Languages : </li>
 <!--
 **Prii01/Prii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
