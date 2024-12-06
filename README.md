@@ -22,7 +22,6 @@
   <b>Tools & IDEs:</b> <code>VS Code</code> <code>IntelliJ IDEA</code> <code>PyCharm</code> <code>Codeblocks</code> <code>Eclipse</code> <code>Selenium</code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
